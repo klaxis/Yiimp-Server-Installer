@@ -5,7 +5,7 @@
 # Updated by Dirty Harry for crypto use...                                                                #
 # This script is intended to be run like this:                                                            #
 #                                                                                                         #
-#  curl https://raw.githubusercontent.com/DirtyHarryDev/Yiimp-Server-Installer/master/bootstrap.sh | bash # 
+#  curl https://raw.githubusercontent.com/klaxis/Yiimp-Server-Installer/master/bootstrap.sh | bash # 
 #                                                                                                         #
 ###########################################################################################################
 
